@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 function Navigation() {
   const dispatch = useDispatch();
   const handleLogout = () => {
-    dispatch(logoutUser('logOUUT'))
+    dispatch(logoutUser('logOUT'))
   }
   return (
     <div className="menu-container position-fixed">
