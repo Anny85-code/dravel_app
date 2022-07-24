@@ -9,7 +9,7 @@ The project you are going to build for the Final Capstone Project is based on an
 > | -   | ![screenshot](app-screenshot1.png) | -   | ![screenshot](app-screenshot2.png) | -   | ![screenshot](app-screenshot3.png) | -   |
 
 ## Live App link
-- Here is the [link](https://microverse.org) to the live app `https://dravel-app.herokuapp.com/`
+- Here is the [link](https://dravel-app.herokuapp.com/)
 
 ## objectives
 Apply technical knowledge and skills gained in previous modules in a complex project.

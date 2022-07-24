@@ -36,7 +36,7 @@ function ItemsConainer() {
         </div>
         <div className='items'>
           <div className='images'>
-            < ControlledCarousel />
+            <ControlledCarousel />
           </div>
         </div>
       </div>
